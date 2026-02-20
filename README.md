@@ -1,7 +1,7 @@
-# Portfolio Gameplay Unity 3D Beat 'Em All
+# Portfolio Gameplay Unity 3D Beat'em All
 
 ## Overview
-Gameplay Prototype of a 3D Beat 'Em All with Walking and Lock-On Cameras.
+Gameplay Prototype of a 3D Beat'em All with Walking and Lock-On Cameras.
 The project is still in early development and focuses for now on camera controls and lock-on system integration with Cinemachine.
 
 This repository contains only the core gameplay scripts for demonstration purposes.
