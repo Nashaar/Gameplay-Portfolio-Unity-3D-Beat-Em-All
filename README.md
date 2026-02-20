@@ -1,4 +1,4 @@
-# Gameplay-Portfolio-Unity-3D-Beat'EmAll
+# Gameplay Portfolio Unity 3D Beat 'Em All
 
 ## Overview
 Gameplay Prototype of a 3D Beat 'Em All with Walking and Lock-On Cameras.
